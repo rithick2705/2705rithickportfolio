@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rithick J - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#conference">Conference</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#certificate">Certificates</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Home Section -->
+    <section id="home">
+        <div class="hero">
+            <h1>Welcome to my Portfolio!</h1>
+            <p>I'm Rithick J, a passionate web developer.</p>
+        </div>
+    </section>
+
+    <!-- About Me Section -->
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I'm a web developer with expertise in HTML, CSS, JavaScript, and React. I strive to create beautiful, interactive, and user-friendly websites.</p>
+    </section>
+
+    <!-- Conference Section -->
+    <section id="conference">
+        <h2>national level web development conferece</h2>
+        <p>national level tamil conference.</p>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>python</li>
+            <li>c++</li>
+            <li>office automation</li>
+        </ul>
+    </section>
+
+    <!-- Certificates Section -->
+    <section id="certificate">
+        <h2>Certificates</h2>
+        <ul>
+            <li> Web Developmentfundamental 2025</li>
+            <li>cloud compting fundamental 2025</li>
+            <li>distric level runing</li>
+        </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: rithickj@example.com</p>
+        <p>Phone: +123456789</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2025 Rithick J. All rights reserved.</p>
+    </footer>
+
+    <!-- JavaScript Link -->
+    <script src="script.js"></script>
+</body>
+</html>
